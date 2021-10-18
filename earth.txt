@@ -3,4 +3,8 @@
 
 Earth is blue and beautiful. Our only choice of livelihood. 
 The only known source of life and art. 
+<<<<<<< HEAD
 But I guess other planets are important, too.
+=======
+Yeah, something like that.
+>>>>>>> 1da94e24135f7738f00cc65458967421b034a6db
